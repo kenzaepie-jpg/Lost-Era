@@ -1,0 +1,6 @@
+{
+  "name": "LOST ERA Streetwear",
+  "description": "Dark gothic streetwear and lifestyle brand co-founded by Kyle & Kenza (K&K). Dual storefronts on Etsy & SHEIN, Cameroon shipping, and fixed 1$ = 570 FCFA currency display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
