@@ -12,8 +12,8 @@ export const PRODUCTS: Product[] = [
       'Heavyweight boxy streetwear t-shirt featuring the signature LOST ERA antiquity marble statue bust encircled by orbital wireframe spheres on the chest, paired with the celestial explorer silhouette under a celestial moon and "SOMEWHERE BETWEEN DREAMS AND REALITY" script on the back.',
     story:
       'Inspired by the contrast between timeless classical stone sculptures and eternal cosmic geometry. Designed for those who feel disconnected from fleeting modern trends and rooted in something timeless.',
-    image: '/assets/brand/lost_era_tee_1789676546486.jpg',
-    backImage: '/assets/brand/lost_era_tee_1789676546486.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_tee_1789676546486.jpg',
+    backImage: '$ {import.meta.env.Base_URL}assets/brand/lost_era_tee_1789676546486.jpg',
     sizes: ['S', 'M', 'L', 'XL', '2XL', '3XL'],
     inStock: true,
     quote: 'Somewhere between dreams and reality',
@@ -58,7 +58,7 @@ export const PRODUCTS: Product[] = [
       'Ultra-dense heavyweight fleece hoodie with the iconic LOST ERA gothic chest star emblem, orbital celestial wireframe globe graphics along the left sleeve, and an intricate baroque Renaissance winged guardian angel on the right pocket and reverse.',
     story:
       'Forged for cold city nights. A sanctuary in cloth embodying the guardian angel motifs of classical Rome juxtaposed against planetary navigation symbols.',
-    image: '/assets/brand/lost_era_hoodie_1789676560634.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_hoodie_1789676560634.jpg',
     sizes: ['S', 'M', 'L', 'XL', '2XL'],
     inStock: true,
     quote: 'For those who feel out of time',
@@ -102,7 +102,7 @@ export const PRODUCTS: Product[] = [
       'Wide-leg tactical streetwear cargo trousers crafted with structured matte black cotton twill. Features the statement "NOT LOST JUST IN A DIFFERENT ERA" graphic, classical Greek marble portrait print on the lower leg, and utility flap cargo pockets.',
     story:
       'The foundational bottom piece of the LOST ERA uniform. Constructed to drape effortlessly over chunky combat boots or vintage sneakers.',
-    image: '/assets/brand/lost_era_cargo_1789676573871.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_cargo_1789676573871.jpg',
     sizes: ['S (30)', 'M (32)', 'L (34)', 'XL (36)', '2XL (38)'],
     inStock: true,
     quote: 'Not lost, just in a different era',
@@ -146,7 +146,7 @@ export const PRODUCTS: Product[] = [
       'Low-profile unstructured dad cap in washed charcoal-black cotton. Finished with high-density white 3D puff embroidery of the LOST ERA gothic logo on the crown and "SAME SOUL NEW ERA" stitched on the right temple.',
     story:
       'A subtle daily talisman. Made to endure sun, rain, and years of wear while keeping its faded vintage patina.',
-    image: '/assets/brand/lost_era_cargo_1789676573871.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_cargo_1789676573871.jpg',
     sizes: ['One Size Fits All (Adjustable Buckle)'],
     inStock: true,
     quote: 'Same soul, new era',
@@ -186,7 +186,7 @@ export const PRODUCTS: Product[] = [
       'Deep jet-black glazed ceramic coffee mug featuring the LOST ERA gothic banner, floating celestial planet with orbital path rings, starburst constellations, and the motto "SAME SOUL NEW ERA".',
     story:
       'Start every morning steeped in astronomical wonder and timeless contemplation. Built with an oversized comfortable C-handle.',
-    image: '/assets/brand/lost_era_acc_1789676587849.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_acc_1789676587849.jpg',
     sizes: ['15 oz / 444 ml Large Capacity'],
     inStock: true,
     quote: 'Different minds, same sky',
@@ -226,7 +226,7 @@ export const PRODUCTS: Product[] = [
       'Long knit black scarf adorned with classical Renaissance winged angel etching at the terminals, finished with delicate hand-knotted fringe edges and LOST ERA gothic starburst typography.',
     story:
       'A baroque statement drape that adds mysterious classical depth to any coat, hoodie, or leather jacket.',
-    image: '/assets/brand/lost_era_acc_1789676587849.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_acc_1789676587849.jpg',
     sizes: ['72" x 14" (182cm x 35cm)'],
     inStock: true,
     quote: 'Different minds • Same sky',
@@ -265,7 +265,7 @@ export const PRODUCTS: Product[] = [
       'Crisp heavyweight pique cotton polo shirt in solid black with contrasting white tipping stripes along the ribbed collar and sleeve cuffs. Embellished with the minimalist LOST ERA star crest over the heart.',
     story:
       'A refined, understated essential blending athletic heritage with dark aesthetic streetwear poise.',
-    image: '/assets/brand/lost_era_hero_1789676530507.jpg',
+    image: '$ {import.meta.env.Base_URL}assets/brand/lost_era_hero_1789676530507.jpg',
     sizes: ['S', 'M', 'L', 'XL', '2XL'],
     inStock: true,
     quote: 'Same soul, new era',
