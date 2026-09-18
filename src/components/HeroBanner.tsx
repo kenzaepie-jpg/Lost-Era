@@ -127,7 +127,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onExplore, etsyShopName 
               {/* Outer Frame */}
               <div className="relative rounded-2xl overflow-hidden border border-neutral-800 shadow-2xl bg-neutral-950 group">
                 <img
-                  src="/assets/brand/lost_era_hero_1789676530507.jpg"
+                  src='$ {import.meta.env.Base_URL}assets/brand/lost_era_hero_1789676530507.jpg'
                   alt="LOST ERA Gothic Streetwear Collection"
                   referrerPolicy="no-referrer"
                   className="w-full aspect-[4/3] sm:aspect-square object-cover object-center group-hover:scale-105 transition-transform duration-700"
